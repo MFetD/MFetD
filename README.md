@@ -3,9 +3,8 @@
 Computer Science undergraduate at **UConn Stamford** (GPA 3.98) focused on **high-performance computing, parallel systems, and secure software**.  
 Experienced in building and benchmarking **MPI/OpenMP/Pthreads** pipelines in C, alongside **Python tooling** for analysis, visualization, and testing.
 
----
-# Resume Link: 
-## [github.com/](https://mfetd.github.io/)
+--- 
+## [Resume](https://mfetd.github.io/)
 ---
 
 ## Focus Areas

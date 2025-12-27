@@ -5,7 +5,7 @@ Experienced in building and benchmarking **MPI/OpenMP/Pthreads** pipelines in C,
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 - High-Performance Computing (HPC)
 - Parallel & Concurrent Systems
 - Systems Programming (C, POSIX)
@@ -14,7 +14,7 @@ Experienced in building and benchmarking **MPI/OpenMP/Pthreads** pipelines in C,
 
 ---
 
-## 🧠 Education
+## Education
 **University of Connecticut (UConn), Stamford**  
 B.S. Computer Science — *Expected May 2027*  
 GPA: **3.98 / 4.0** (Major GPA: 4.0)  
@@ -29,7 +29,7 @@ Additional non-degree coursework: Carnegie Mellon University, Ithaca College, Un
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 **Languages**
 - Python, C, Bash
 
@@ -41,7 +41,7 @@ Additional non-degree coursework: Carnegie Mellon University, Ithaca College, Un
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Throttler — Network throttling test harness  
 **Python, Tkinter**  
@@ -73,7 +73,7 @@ Additional non-degree coursework: Carnegie Mellon University, Ithaca College, Un
 
 ---
 
-## 🧪 Systems & Security Coursework Highlights
+## Systems & Security Coursework Highlights
 
 ### Systems Programming & Parallel Computing (CSE 3100)
 - Developed parallel C implementations for sparse matrix–vector workloads  
@@ -87,7 +87,7 @@ Additional non-degree coursework: Carnegie Mellon University, Ithaca College, Un
 
 ---
 
-## 👥 Teaching, Leadership & Operations
+## Teaching, Leadership & Operations
 
 **Teaching Assistant — CSE 1010 (Intro to Computing)**  
 - Led two weekly lab sections (~40 students) covering Python fundamentals  
@@ -103,12 +103,12 @@ Additional non-degree coursework: Carnegie Mellon University, Ithaca College, Un
 
 ---
 
-## 📌 Background & Operations Experience
+## Background & Operations Experience
 Prior experience includes managing construction projects, supervising large teams, and running operations under tight real-time constraints—bringing strong execution, planning, and accountability skills into technical environments.
 
 ---
 
-## 🔗 Links
+## Links
 - **LinkedIn:** https://linkedin.com/in/maxwell-fetterman  
 - **Email:** maxwell.fetterman@gmail.com  
 
